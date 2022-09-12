@@ -1,9 +1,28 @@
 body {
   margin: 0px;
   padding: 0px;
+  font-family: sans-serif;
 }
 
-.hero {
+#hero-wrapper {
   background-color: #022534;
   color: #E4F5FF;
+}
+
+.nav-bar {
+  display: flex;
+}
+
+.nav-bar h2 {
+  margin: 0px;
+  font-size: 24px;
+}
+
+.nav-bar a {
+  color: #96c7D5;
+  text-decoration: none;
+}
+
+.intro-section {
+  display: flex;
 }
