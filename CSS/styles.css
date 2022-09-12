@@ -2,3 +2,8 @@ body {
   margin: 0px;
   padding: 0px;
 }
+
+.hero {
+  background-color: #022534;
+  color: #E4F5FF;
+}
