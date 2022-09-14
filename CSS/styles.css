@@ -1,20 +1,21 @@
 body {
   margin: 0px;
   padding: 0px;
+  color: #E4F5FF;
 }
 
 #main-header {
   background-color: #022534;
-  color: #E4F5FF;
+  color: #96C7D5;
 }
 
-#main-nav {
+#nav-bar {
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
-#main-nav a {
+#nav-bar a {
   color: #96C7D5;
   text-decoration: none;
 }
@@ -23,4 +24,36 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.info-message {
+  text-align: center;
+}
+
+#about-me-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #094F6A;
+  color: #96C7D5;
+}
+
+#quote-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: #96C7D5;
+  color: #094F6A;
+}
+
+#main-footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: #022534;
+  color: #96C7D5;
 }
