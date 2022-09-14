@@ -1,8 +1,12 @@
+/* General settings */
+
 body {
   margin: 0px;
   padding: 0px;
   color: #E4F5FF;
 }
+
+/* Header section */
 
 #main-header {
   background-color: #022534;
@@ -30,6 +34,8 @@ body {
   text-align: center;
 }
 
+/* About me section */
+
 #about-me-section {
   display: flex;
   flex-direction: column;
@@ -38,6 +44,8 @@ body {
   background-color: #094F6A;
   color: #96C7D5;
 }
+
+/* Quote section */
 
 #quote-section {
   display: flex;
@@ -48,6 +56,33 @@ body {
   background-color: #96C7D5;
   color: #094F6A;
 }
+
+/* Other websites section */
+
+#website-links-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-color: #094F6A;
+  color: #96C7D5;
+}
+
+#website-links-section ul {
+  padding: 0px;
+}
+
+#website-links-section li {
+  list-style: none;
+}
+
+#website-links-section a {
+  color: #96C7D5;
+  text-decoration: none;
+}
+
+/* Footer section */
 
 #main-footer {
   display: flex;
