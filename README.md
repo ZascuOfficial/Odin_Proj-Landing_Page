@@ -1,11 +1,8 @@
 # The Odin Project - Landing Page
 
-Hello! My name is Zascu, and this is the second project that I worked on in "The Odin Project" curriculum.
+This is the second project of the "The Odin Project" curriculum, in which I had to make a **landing page** website example.
 
-My goal is to become a front-end software engineer and UI - UX Designer, so that is why I chose this detailed guide.
+In this project I am learned more about the useful CSS property known as FlexBox. Excited to use it more looking forward.
 
-Click this link if you want to check it out for yourself! - https://www.theodinproject.com/
-
-Also check me out on Twitter if you have time and wish to see more updates about my coding journey, since I post there daily.
-
-Link - https://twitter.com/ZascuOfficial
+"The Odin Project" curriculum - https://theodinproject.com/
+My Twitter - https://twitter.com/ZascuOfficial/
