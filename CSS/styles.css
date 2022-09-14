@@ -1,0 +1,26 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+#main-header {
+  background-color: #022534;
+  color: #E4F5FF;
+}
+
+#main-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#main-nav a {
+  color: #96C7D5;
+  text-decoration: none;
+}
+
+#intro-section {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
