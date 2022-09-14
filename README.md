@@ -5,4 +5,5 @@ This is the second project of the "The Odin Project" curriculum, in which I had 
 In this project I am learned more about the useful CSS property known as FlexBox. Excited to use it more looking forward.
 
 "The Odin Project" curriculum - https://theodinproject.com/
+
 My Twitter - https://twitter.com/ZascuOfficial/
