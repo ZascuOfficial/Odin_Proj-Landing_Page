@@ -6,6 +6,4 @@ In this project I am learned more about the useful CSS property known as FlexBox
 
 "The Odin Project" curriculum - https://theodinproject.com/
 
-My Twitter - https://twitter.com/ZascuOfficial/
-
 The Website Page - https://zascuofficial.github.io/Odin_Proj-Landing_Page/
